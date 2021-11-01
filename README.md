@@ -2,9 +2,11 @@
 A Java program that prints itself!
 
 in linux anyway.
-    javac Quine.java
-    java Quine > Quine2.java
-    diff Quine.java Quine2.java
+```
+javac Quine.java
+java Quine > Quine2.java
+diff Quine.java Quine2.java
+```
 prints nothing.
 
 
